@@ -14,7 +14,7 @@
   "dependencies": {
     "@apollo/gateway": "^2.5.5",
     "@apollo/server": "^4.9.4",
-    "apollo-server-express": "^3.12.1",
+    "graphql-tag": "^2.12.6",
     "@apollo/subgraph": "^2.5.5",
     "graphql": "^16.8.1",
     "mongoose": "^7.6.0",

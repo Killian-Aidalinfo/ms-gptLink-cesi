@@ -42,7 +42,7 @@ const resolvers = {
                 body: JSON.stringify({
                     model: 'gpt-3.5-turbo', // Le modèle OpenAI à utiliser pour générer la réponse
                     messages: messages, // L'historique de la conversation
-                    max_tokens: 1000 // Le nombre maximum de tokens à générer dans la réponse
+                    max_tokens: 3900 // Le nombre maximum de tokens à générer dans la réponse
                 })
             });
 
